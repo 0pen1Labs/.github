@@ -30,7 +30,7 @@ There are many ways to get involved with 0pen1Labs. You can:
 
 * Website: https://obl.org
 * GitHub: [0pen1Labs GitHub organization](https://github.com/0pen1Labs)
-* Twitter: [@0pen1Labs](https://twitter.com/Akats_01/status/1203080174268485632)
+* Twitter: [@0pen1Labs](https://twitter.com/0pen1Labs)
 * Slack channel: [0pen1Labs Slack channel](https://api.slack.com/types/channel)
 * Discord server: [0pen1Labs Discord server](https://www.sckaiser.com/blog/2023/05/09/discord-communities.html)
 
